@@ -1,6 +1,6 @@
 # parameters values will be passed from the main/parent yaml template.
 parameters:
-  environment: dev
+  environment: Test
   environmentDisplayName: Development
   backendServiceArm: ''
   backendAzureRmResourceGroupName: 'resourcegroup-tfstate'
